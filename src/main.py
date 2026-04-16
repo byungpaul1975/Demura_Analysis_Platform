@@ -6,7 +6,7 @@ This script demonstrates how to use the OOP-based processing pipeline.
 
 Usage:
     python src/main.py
-
+test
 Or with custom configuration:
     python src/main.py --input data/image.tif --output output/ --width 2412 --height 2288
 """
