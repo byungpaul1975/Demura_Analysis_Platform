@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Numba cache
+*.nbc
+*.nbi
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output (generated files)
+output/
+
+# Data (large files exceeding GitHub 100MB limit)
+data/*.tif
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
